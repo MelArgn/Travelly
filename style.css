@@ -345,6 +345,9 @@ footer ul {
   .form-wrapper {
     width: 100%;
   }
+  textarea {
+    text-align: center;
+  }
   footer {
     text-align: center;
   }
