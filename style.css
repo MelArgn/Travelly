@@ -257,7 +257,8 @@ p {
 }
 
 .name-form,
-.email-form {
+.email-form,
+.textarea-form {
   padding: 3rem;
   text-align: center;
 }
