@@ -257,14 +257,13 @@ p {
 }
 
 .name-form,
-.email-form,
-.textarea-form {
+.email-form {
   padding: 3rem;
   text-align: center;
 }
 
 .form-wrapper label {
-  margin: 0rem 3rem;
+  margin: 0rem 1rem;
 }
 
 .form-wrapper button {
@@ -274,12 +273,16 @@ p {
 }
 
 .form-wrapper input {
-  padding: 1rem 3rem;
+  padding: 0rem 1rem;
   border-radius: 10px;
 }
 
 textarea {
-  margin: 2rem 38rem;
+  display: flex;
+  margin: auto;
+  padding: 2rem;
+  align-items: center;
+  flex-wrap: wrap;
   border-radius: 10px;
 }
 
@@ -344,9 +347,6 @@ footer ul {
   }
   .form-wrapper {
     width: 100%;
-  }
-  textarea {
-    text-align: center;
   }
   footer {
     text-align: center;
