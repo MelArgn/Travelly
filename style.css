@@ -262,9 +262,9 @@ p {
   text-align: center;
 }
 
-.form-wrapper label {
+/* .form-wrapper label {
   margin: 0rem 1rem;
-}
+} */
 
 .form-wrapper button {
   width: 100%;
