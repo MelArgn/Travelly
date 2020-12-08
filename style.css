@@ -98,7 +98,7 @@ nav ul {
 
 .hero {
   background: linear-gradient(rgba(0, 0, 0, 0.8), transparent),
-    url("/img/landing-page.jpg");
+    url("img/landing-page.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
