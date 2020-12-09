@@ -1,2 +1,2 @@
 # travelly
-Responsive wedsite using HTML and CSS (flexbox)
+Responsive wedsite using HTML5 and CSS3 (flexbox)
